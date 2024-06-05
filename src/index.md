@@ -1,2 +1,2 @@
 hola mundo soy seba
-Cambio en la nueva rama
+cambio de la nueva rama
